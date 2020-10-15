@@ -1,0 +1,36 @@
+body{
+    background: url(../img/25.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    width: 1000px;
+    margin: 0px auto;
+    background: #8bc34aa8;
+    padding: 50px;
+    margin-top: 75px;
+}
+.img{
+    text-align: center;
+}
+.img_section{
+    width: 138px;
+    background: saddlebrown;
+    border-radius: 10px;
+}
+.form{
+    width: 498px;
+    padding: 9px;
+    margin: 5px;
+    border-radius: 10px;
+}
+.form_send{
+    width: 127px;
+    padding: 9px;
+    margin: 5px;
+    background: darkred;
+    border-radius: 10px;
+}
+.label1{
+    text-align: left;
+}
